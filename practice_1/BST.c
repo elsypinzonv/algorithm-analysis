@@ -81,10 +81,6 @@ void inOrder(int *root, int *left, int *right){
 	}
 }
 
-void print(){
-
-}
-
 void BST(int Data[]){
 	int root[MAX_LENGTH];
 	int left[MAX_LENGTH];
